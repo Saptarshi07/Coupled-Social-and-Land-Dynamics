@@ -1,2 +1,5 @@
 # Coupled-Social-and-Land-Dynamics
-repository containing code for manuscript
+
+The scripts in this repository corresponde to the code necessary for the manuscript titled - "Coupled social and land use dynamics affect dietary choice and agricultural land-use extent"
+
+
