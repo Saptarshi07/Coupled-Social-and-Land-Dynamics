@@ -56,3 +56,5 @@ for baseline projections (indicated by 0 0 0) under SSP3 population and income s
 
 For questions please contact owner of repository or email at s24pal@uwaterloo.ca
 
+[![DOI](https://zenodo.org/badge/383164395.svg)](https://zenodo.org/badge/latestdoi/383164395)
+
