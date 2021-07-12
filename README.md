@@ -54,5 +54,5 @@ python projections.py 0 0 0 SSP3 0.4
 for baseline projections (indicated by 0 0 0) under SSP3 population and income scenario at the yield scenario of f = 0.4
 
 
-
+For questions please contact owner of repository or email at s24pal@uwaterloo.ca
 
